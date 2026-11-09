@@ -1,0 +1,7 @@
+# Chatbot_FS dependencies
+openai>=1.0.0
+qdrant-client>=1.9.0
+sentence-transformers>=2.7.0
+fastapi>=0.110.0
+uvicorn>=0.29.0
+python-dotenv>=1.0.0
